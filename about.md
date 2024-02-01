@@ -3,5 +3,4 @@ layout: default
 title: "About"
 permalink: /about
 ---
-## List of the Projects I've Done:
-None :(
+[Projects](https://chrisgitn.github.io/projectlist)
