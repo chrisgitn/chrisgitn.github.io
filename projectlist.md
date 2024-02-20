@@ -13,7 +13,7 @@ permalink: /projectlist
   <tr>
     <td>Monkey</td>
     <td>Uses Wordnik</td>
-    <td><span style="color:yellow;">Waiting for API </span></td>
+    <td><span style="color:orange;">Waiting for API </span></td>
   </tr>
 </table>
 
