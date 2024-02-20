@@ -11,9 +11,9 @@ permalink: /projectlist
     <th>Status</th>
   </tr>
   <tr>
-    <td>Untitled 1</td>
-    <td>Uses ChatGPT API, not sure for what yet</td>
-    <td><span style="color:red;">Not Started </span></td>
+    <td>Monkey</td>
+    <td>Uses Wordnik</td>
+    <td><span style="color:yellow;">Waiting for API </span></td>
   </tr>
 </table>
 
