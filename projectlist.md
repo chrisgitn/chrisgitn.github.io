@@ -11,8 +11,8 @@ permalink: /projectlist
     <th>Status</th>
   </tr>
   <tr>
-    <td>Monkey</td>
-    <td>Can monkeys type Shakspeare?</td>
+    <td>Dog</td>
+    <td>Can a dog type Shakspeare?</td>
     <td><span style="color:orange;">In progress... </span></td>
   </tr>
 </table>
