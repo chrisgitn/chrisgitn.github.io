@@ -12,8 +12,8 @@ permalink: /projectlist
   </tr>
   <tr>
     <td>Monkey</td>
-    <td>Uses Wordnik</td>
-    <td><span style="color:orange;">Waiting for API </span></td>
+    <td>Can monkeys type Shakspeare?</td>
+    <td><span style="color:orange;">In progress... </span></td>
   </tr>
 </table>
 
