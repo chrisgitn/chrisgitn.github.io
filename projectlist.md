@@ -11,9 +11,9 @@ permalink: /projectlist
     <th>Status</th>
   </tr>
   <tr>
-    <td>Dog</td>
-    <td>Can a dog type Shakspeare?</td>
-    <td><span style="color:orange;">In progress... </span></td>
+    <td>[DogTyper](https://github.com/chrisgitn/DogTyper)</td>
+    <td>Uses the HuggingChat API to create random dog profiles</td>
+    <td><span style="color:green;">Finished v1!</span></td>
   </tr>
 </table>
 
