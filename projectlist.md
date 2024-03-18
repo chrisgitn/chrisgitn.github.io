@@ -15,6 +15,11 @@ permalink: /projectlist
     <td>Uses the HuggingChat API to create random dog profiles</td>
     <td><span style="color:green;">Finished v1!</span></td>
   </tr>
+  <tr>
+    <td><a>WikiRace</a></td>
+    <td>A website that sets up Wikipedia races using the Wikipedia API</td>
+    <td><span style="color:yellow;">WIP</span></td>
+  </tr>
 </table>
 
 
