@@ -18,7 +18,7 @@ permalink: /projectlist
   <tr>
     <td><a>WikiRace</a></td>
     <td>A website that sets up Wikipedia races using the Wikipedia API</td>
-    <td><span style="color:yellow;">WIP</span></td>
+    <td><span style="color:orange;">WIP</span></td>
   </tr>
 </table>
 
