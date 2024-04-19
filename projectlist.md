@@ -22,7 +22,7 @@ permalink: /projectlist
   </tr>
   <tr>
     <td><a href='https://github.com/chrisgitn/FinalProject' target='_blank' >FinalProject</a></td>
-    <td>Final Project for the class, not sure what it will be yet. Maybe a Unity game?</td>
+    <td>Unity game</td>
     <td><span style="color:orange;">WIP</span></td>
   </tr>
 </table>
