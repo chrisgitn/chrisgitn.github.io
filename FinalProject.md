@@ -1,3 +1,3 @@
-## [Final Project](https://github.com/chrisgitn/FinalProject)
+## <a href='https://github.com/chrisgitn/FinalProject' target='_blank' >FinalProject</a>
 Update 1: I think that I'm going to create a game using Unity. The few times I tried to make anything I did not get very far before quitting the project. I'm going to use this final project as a way to force myself to stick with Unity and gain a better understanding of how to fully use the tools provided with the engine.
 [Back](https://chrisgitn.github.io/)
