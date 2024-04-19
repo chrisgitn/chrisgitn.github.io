@@ -1,4 +1,4 @@
-## [WikiRace](https://chrisgitn.github.io/WikiRace)
+## [WikiRace](https://github.com/chrisgitn/WikiRace)
 Update 1: I've made a local website that I can change the style of, currently trying to figure out how to work the Wikipedia API. It is a little confusing on how to use the API.
 
 Update 2: The game portion is pretty much complete along with a timer. The only thing I need to add functionality
